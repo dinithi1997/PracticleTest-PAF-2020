@@ -3,6 +3,7 @@
   <display-name>PracticleTest-PAF-2020</display-name>
   <welcome-file-list>
     <welcome-file>PaymentManagment.jsp</welcome-file>
+     <welcome-file>CreditCard.jsp</welcome-file>
    
   </welcome-file-list>
 </web-app>
